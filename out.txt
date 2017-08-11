@@ -1,0 +1,324 @@
+<table class="table-qsp-stats Mt(10px)" data-reactid="13">
+ <tbody data-reactid="14">
+  <tr data-reactid="15">
+   <td data-reactid="16">
+    <span data-reactid="17">
+     Market cap (intra-day)
+    </span>
+    <!-- react-text: 18 -->
+    <!-- /react-text -->
+    <!-- react-text: 19 -->
+    <!-- /react-text -->
+    <sup data-reactid="20">
+     5
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="21">
+    5.28B
+   </td>
+  </tr>
+  <tr data-reactid="22">
+   <td data-reactid="23">
+    <span data-reactid="24">
+     Enterprise value
+    </span>
+    <!-- react-text: 25 -->
+    <!-- /react-text -->
+    <!-- react-text: 26 -->
+    <!-- /react-text -->
+    <sup data-reactid="27">
+     3
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="28">
+    <span data-reactid="29">
+     N/A
+    </span>
+   </td>
+  </tr>
+  <tr data-reactid="30">
+   <td data-reactid="31">
+    <span data-reactid="32">
+     Trailing P/E
+    </span>
+    <!-- react-text: 33 -->
+    <!-- /react-text -->
+    <!-- react-text: 34 -->
+    <!-- /react-text -->
+    <sup data-reactid="35">
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="36">
+    19.43
+   </td>
+  </tr>
+  <tr data-reactid="37">
+   <td data-reactid="38">
+    <span data-reactid="39">
+     Forward P/E
+    </span>
+    <!-- react-text: 40 -->
+    <!-- /react-text -->
+    <!-- react-text: 41 -->
+    <!-- /react-text -->
+    <sup data-reactid="42">
+     1
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="43">
+    21.38
+   </td>
+  </tr>
+  <tr data-reactid="44">
+   <td data-reactid="45">
+    <span data-reactid="46">
+     PEG Ratio (5 yr expected)
+    </span>
+    <!-- react-text: 47 -->
+    <!-- /react-text -->
+    <!-- react-text: 48 -->
+    <!-- /react-text -->
+    <sup data-reactid="49">
+     1
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="50">
+    5.22
+   </td>
+  </tr>
+  <tr data-reactid="51">
+   <td data-reactid="52">
+    <span data-reactid="53">
+     Price/sales
+    </span>
+    <!-- react-text: 54 -->
+    <!-- /react-text -->
+    <!-- react-text: 55 -->
+    (ttm)
+    <!-- /react-text -->
+    <sup data-reactid="56">
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="57">
+    15.46
+   </td>
+  </tr>
+  <tr data-reactid="58">
+   <td data-reactid="59">
+    <span data-reactid="60">
+     Price/book
+    </span>
+    <!-- react-text: 61 -->
+    <!-- /react-text -->
+    <!-- react-text: 62 -->
+    (mrq)
+    <!-- /react-text -->
+    <sup data-reactid="63">
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="64">
+    0.98
+   </td>
+  </tr>
+  <tr data-reactid="65">
+   <td data-reactid="66">
+    <span data-reactid="67">
+     Enterprise value/revenue
+    </span>
+    <!-- react-text: 68 -->
+    <!-- /react-text -->
+    <!-- react-text: 69 -->
+    <!-- /react-text -->
+    <sup data-reactid="70">
+     3
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="71">
+    <span data-reactid="72">
+     N/A
+    </span>
+   </td>
+  </tr>
+  <tr data-reactid="73">
+   <td data-reactid="74">
+    <span data-reactid="75">
+     Enterprise value/EBITDA
+    </span>
+    <!-- react-text: 76 -->
+    <!-- /react-text -->
+    <!-- react-text: 77 -->
+    <!-- /react-text -->
+    <sup data-reactid="78">
+     6
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="79">
+    <span data-reactid="80">
+     N/A
+    </span>
+   </td>
+  </tr>
+ </tbody>
+</table>
+table class="table-qsp-stats Mt(10px)" data-reactid="13">
+ <tbody data-reactid="14">
+  <tr data-reactid="15">
+   <td data-reactid="16">
+    <span data-reactid="17">
+     Market cap (intra-day)
+    </span>
+    <!-- react-text: 18 -->
+    <!-- /react-text -->
+    <!-- react-text: 19 -->
+    <!-- /react-text -->
+    <sup data-reactid="20">
+     5
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="21">
+    5.28B
+   </td>
+  </tr>
+  <tr data-reactid="22">
+   <td data-reactid="23">
+    <span data-reactid="24">
+     Enterprise value
+    </span>
+    <!-- react-text: 25 -->
+    <!-- /react-text -->
+    <!-- react-text: 26 -->
+    <!-- /react-text -->
+    <sup data-reactid="27">
+     3
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="28">
+    <span data-reactid="29">
+     N/A
+    </span>
+   </td>
+  </tr>
+  <tr data-reactid="30">
+   <td data-reactid="31">
+    <span data-reactid="32">
+     Trailing P/E
+    </span>
+    <!-- react-text: 33 -->
+    <!-- /react-text -->
+    <!-- react-text: 34 -->
+    <!-- /react-text -->
+    <sup data-reactid="35">
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="36">
+    19.43
+   </td>
+  </tr>
+  <tr data-reactid="37">
+   <td data-reactid="38">
+    <span data-reactid="39">
+     Forward P/E
+    </span>
+    <!-- react-text: 40 -->
+    <!-- /react-text -->
+    <!-- react-text: 41 -->
+    <!-- /react-text -->
+    <sup data-reactid="42">
+     1
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="43">
+    21.38
+   </td>
+  </tr>
+  <tr data-reactid="44">
+   <td data-reactid="45">
+    <span data-reactid="46">
+     PEG Ratio (5 yr expected)
+    </span>
+    <!-- react-text: 47 -->
+    <!-- /react-text -->
+    <!-- react-text: 48 -->
+    <!-- /react-text -->
+    <sup data-reactid="49">
+     1
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="50">
+    5.22
+   </td>
+  </tr>
+  <tr data-reactid="51">
+   <td data-reactid="52">
+    <span data-reactid="53">
+     Price/sales
+    </span>
+    <!-- react-text: 54 -->
+    <!-- /react-text -->
+    <!-- react-text: 55 -->
+    (ttm)
+    <!-- /react-text -->
+    <sup data-reactid="56">
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="57">
+    15.46
+   </td>
+  </tr>
+  <tr data-reactid="58">
+   <td data-reactid="59">
+    <span data-reactid="60">
+     Price/book
+    </span>
+    <!-- react-text: 61 -->
+    <!-- /react-text -->
+    <!-- react-text: 62 -->
+    (mrq)
+    <!-- /react-text -->
+    <sup data-reactid="63">
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="64">
+    0.98
+   </td>
+  </tr>
+  <tr data-reactid="65">
+   <td data-reactid="66">
+    <span data-reactid="67">
+     Enterprise value/revenue
+    </span>
+    <!-- react-text: 68 -->
+    <!-- /react-text -->
+    <!-- react-text: 69 -->
+    <!-- /react-text -->
+    <sup data-reactid="70">
+     3
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="71">
+    <span data-reactid="72">
+     N/A
+    </span>
+   </td>
+  </tr>
+  <tr data-reactid="73">
+   <td data-reactid="74">
+    <span data-reactid="75">
+     Enterprise value/EBITDA
+    </span>
+    <!-- react-text: 76 -->
+    <!-- /react-text -->
+    <!-- react-text: 77 -->
+    <!-- /react-text -->
+    <sup data-reactid="78">
+     6
+    </sup>
+   </td>
+   <td class="Fz(s) Fw(500) Ta(end)" data-reactid="79">
+    <span data-reactid="80">
+     N/A
+    </span>
+   </td>
+  </tr>
+ </tbody>
+</table>

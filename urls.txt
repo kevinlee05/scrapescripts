@@ -1,0 +1,13 @@
+summary:
+https://sg.finance.yahoo.com/quote/NS8U.SI?p=NS8U.SI
+statistics:
+https://sg.finance.yahoo.com/quote/NS8U.SI/key-statistics?p=NS8U.SI
+financials:
+https://sg.finance.yahoo.com/quote/NS8U.SI/financials?p=NS8U.SI
+balance sheet:
+https://sg.finance.yahoo.com/quote/NS8U.SI/balance-sheet?p=NS8U.SI
+cash flow:
+https://sg.finance.yahoo.com/quote/NS8U.SI/cash-flow?p=NS8U.SI
+Profile:
+https://sg.finance.yahoo.com/quote/NS8U.SI/profile?p=NS8U.SI
+
