@@ -1,0 +1,48 @@
+<a class="rssfeed" href="http://www.pfie.com/XmlServers/navsectionRSS.aspx?navsectioncode=3190">
+ <span>
+  RSS feed for Southeast Asia
+ </span>
+</a>
+<a href="http://www.pfie.com/asia-pacific/southeast-asia/">
+ Southeast Asia
+</a><a href="http://www.pfie.com/paiton-launches-big-refi-package/21301968.article">
+ <img alt="PLN" src="http://www.pfie.com/pictures/220xAny/9/2/0/351920_PLN.jpg"/>
+</a><a href="http://www.pfie.com/paiton-launches-big-refi-package/21301968.article">
+ Paiton launches big refi package
+</a><a href="http://www.pfie.com/megawide/gmr-interested-in-clark-airport/21301965.article">
+ Megawide/GMR interested in Clark Airport
+</a><a href="http://www.pfie.com/six-keen-on-the-lng-hub/21301964.article">
+ Six keen on the LNG hub
+</a><a href="http://www.pfie.com/transco-in-talks-for-fit-funds/21301963.article">
+ TransCo in talks for FiT funds
+</a><a href="http://www.pfie.com/mpic-to-propose-new-cavitex-expressway/21301961.article">
+ MPIC to propose new Cavitex expressway
+</a><a href="http://www.pfie.com/aes-corp-mulls-masinloc-exit/21301959.article">
+ AES Corp mulls Masinloc exit
+</a><a href="http://www.pfie.com/new-bulacan-airport-proposal-submitted/21301958.article">
+ New Bulacan airport proposal submitted
+</a><a href="http://www.pfie.com/aboitiz-to-acquire-100-stake-in-sacasun/21301957.article">
+ Aboitiz to acquire 100% stake in Sacasun
+</a><a href="http://www.pfie.com/keppel-appoints-lead-banks-for-medp/21301956.article">
+ Keppel appoints lead banks for MEDP
+</a><a href="http://www.pfie.com/megawide-goes-into-rail-sector/21301952.article">
+ Megawide goes into rail sector
+</a><a href="http://www.pfie.com/tata-power-proposes-new-renewable-energy-plant/21301951.article">
+ Tata Power proposes new renewable energy plant
+</a><a href="http://www.pfie.com/three-new-power-plants-get-govt-nod/21301950.article">
+ Three new power plants get govt nod
+</a><a href="http://www.pfie.com/project-4a-rating-due/21301944.article">
+ Project 4a rating due
+</a><a href="http://www.pfie.com/ac-energy-partners-with-upc-renewables/21301943.article">
+ AC Energy partners with UPC Renewables
+</a><a href="http://www.pfie.com/lg-plans-petchem-in-west-papua/21301937.article">
+ LG plans petchem in West Papua
+</a><a href="http://www.pfie.com/cirebon-sponsors-request-revised-permit/21301749.article">
+ Cirebon sponsors request revised permit
+</a><a href="http://www.pfie.com/java-1-developers-in-talks-with-fsru-operators/21301745.article">
+ Java 1 developers in talks with FSRU operators
+</a><a href="http://www.pfie.com/govt-agrees-higher-tariff-for-hydros/21301744.article">
+ Govt agrees higher tariff for hydros
+</a><a href="http://www.pfie.com/medco-energi-signs-deal-for-aceh-block-a/21301743.article">
+ Medco Energi signs deal for Aceh Block A
+</a>
