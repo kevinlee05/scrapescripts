@@ -1,12 +1,13 @@
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from passwords import GMAILLOGIN, GMAILPASS, RECIPIENTS
 
 def readFileAndSend():
     msg = MIMEMultipart('alternative')
     msg['Subject'] = 'PFI News'
     msg['From'] = 'me'
-    msg['To'] = 'kevin.lee@ca-cib.com'
+    msg['To'] = RECIPIENTS
 
 
     text = "this is your daily PFI update:"
@@ -29,6 +30,6 @@ def readFileAndSend():
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
-    server.login("inspir3d@gmail.com","rrrpn@24")
+    server.login(GMAILLOGIN,GMAILPASS)
     server.send_message(msg)
     server.quit()
